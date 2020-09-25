@@ -6,6 +6,7 @@ public class JotaroHealth : MonoBehaviour
 {
     public int maxHealth = 10;
     public int currentHealth;
+    public Animator jotaro;
 
     public HealthBar healthBar;
     private void Start()
@@ -22,8 +23,9 @@ public class JotaroHealth : MonoBehaviour
         }
     }
 
-    void TakeDamage(int damage)
+    public void TakeDamage(int damage)
     {
+        jotaro.SetTrigger("Hurt");
         currentHealth -= damage;
 
         healthBar.SetHealth(currentHealth);

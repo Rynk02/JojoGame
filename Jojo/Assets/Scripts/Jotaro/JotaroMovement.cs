@@ -8,7 +8,7 @@ public class JotaroMovement : MonoBehaviour
     public Rigidbody2D rb;
     float mx;
     public Animator jotaroAnim;
-
+    public Animator starPAnim;
     public float jumpForce;
     public Transform feet;
     public LayerMask groundLayers;
@@ -25,10 +25,12 @@ public class JotaroMovement : MonoBehaviour
         if(Mathf.Abs(mx) > 0.05)
         {
             jotaroAnim.SetBool("isRunning", true);
+            starPAnim.SetBool("isRunning", true);
         }
         else
         {
             jotaroAnim.SetBool("isRunning", false);
+            starPAnim.SetBool("isRunning", false);
         }
 
         if (mx > 0)
