@@ -7,6 +7,7 @@ public class JotaroMovement : MonoBehaviour
     public float movementSpeed;
     public Rigidbody2D rb;
     float mx;
+    public Animator jotaroAnim;
 
     public float jumpForce;
     public Transform feet;
@@ -21,6 +22,25 @@ public class JotaroMovement : MonoBehaviour
             Jump();
         }
 
+        if(Mathf.Abs(mx) > 0.05)
+        {
+            jotaroAnim.SetBool("isRunning", true);
+        }
+        else
+        {
+            jotaroAnim.SetBool("isRunning", false);
+        }
+
+        if (mx > 0)
+        {
+            transform.localScale = new Vector3(3f, 3f, 3f);
+        }
+        else if(mx < 0 )
+        {
+            transform.localScale = new Vector3(-3f, 3f, 3f);
+        }
+
+        jotaroAnim.SetBool("isGrounded", isGrounded());
     }
 
     private void FixedUpdate()
