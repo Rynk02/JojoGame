@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class JotaroCombat : MonoBehaviour
 {
+
     public Animator starAnim;
     public Transform attackPoint;
     public float attackRange = 0.5f;

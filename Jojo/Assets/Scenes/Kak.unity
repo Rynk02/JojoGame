@@ -131,6 +131,7 @@ GameObject:
   m_Component:
   - component: {fileID: 163092552}
   - component: {fileID: 163092553}
+  - component: {fileID: 163092554}
   m_Layer: 10
   m_Name: Green
   m_TagString: Untagged
@@ -203,6 +204,25 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &163092554
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 163092551}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 15d8a92c30436204c9b928c14d86e051, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &171817456
 GameObject:
   m_ObjectHideFlags: 0
@@ -1451,6 +1471,36 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1126874675
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1126874676}
+  m_Layer: 10
+  m_Name: FirePoint2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1126874676
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1126874675}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.83, y: -0.54, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1318895998}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1239088475
 GameObject:
   m_ObjectHideFlags: 0
@@ -2135,11 +2185,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a5b0d62309997645a3ca43caff82405, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 2
+  movementSpeed: 3
   rb: {fileID: 1299025595}
   jotaroAnim: {fileID: 171817459}
   starPAnim: {fileID: 449975705}
-  jumpForce: 5
+  jumpForce: 7
   feet: {fileID: 1634742068}
   groundLayers:
     serializedVersion: 2
@@ -2205,7 +2255,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 10
   currentHealth: 0
-  jotaro: {fileID: 171817459}
+  jotaroAnim: {fileID: 171817459}
   healthBar: {fileID: 570501777}
 --- !u!114 &1299025597
 MonoBehaviour:
@@ -2259,6 +2309,7 @@ Transform:
   - {fileID: 1261709685}
   - {fileID: 163092552}
   - {fileID: 725904987}
+  - {fileID: 1126874676}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2323,8 +2374,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 10
   kakAnim: {fileID: 1261709686}
+  greenAnim: {fileID: 163092554}
   firePoint: {fileID: 725904987}
-  bulletPrefab: {fileID: 7031102916716048393, guid: 11bbc676347857b47bada813447a6a9f,
+  emeraldPrefab: {fileID: 7031102916716048393, guid: 11bbc676347857b47bada813447a6a9f,
+    type: 3}
+  firePoint2: {fileID: 1126874676}
+  tenPrefab: {fileID: 5672456298477081107, guid: e12f32fde46138d47bd1984f41cebc1c,
     type: 3}
 --- !u!1 &1387057278
 GameObject:

@@ -1,13 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class JotaroHealth : MonoBehaviour
 {
     public int maxHealth = 10;
     public int currentHealth;
-    public Animator jotaro;
-
+    public Animator jotaroAnim;
+    private GameObject jotaro;
     public HealthBar healthBar;
     private void Start()
     {
@@ -17,17 +18,32 @@ public class JotaroHealth : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            TakeDamage(1);
-        }
+
     }
 
     public void TakeDamage(int damage)
     {
-        jotaro.SetTrigger("Hurt");
+        jotaroAnim.SetTrigger("Hurt");
         currentHealth -= damage;
 
         healthBar.SetHealth(currentHealth);
+        if(currentHealth <= 0)
+        {
+            Die();
+        }
+    }
+
+    void Die()
+    {
+        jotaroAnim.SetBool("isDead", true);
+        jotaro = GameObject.FindGameObjectWithTag("Player");
+        jotaro.GetComponent<JotaroMovement>().enabled = false;
+        Invoke("LoadDeathScene", 4);
+
+    }
+
+    void LoadDeathScene()
+    {
+        SceneManager.LoadScene("Dead");
     }
 }

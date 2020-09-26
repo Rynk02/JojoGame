@@ -8,28 +8,65 @@ public class KakScript : MonoBehaviour
     //Health
     public int maxHealth = 10;
     int currentHealth;
+
     public Animator kakAnim;
+    public Animator greenAnim;
 
     //Emerald Splash
     public Transform firePoint;
-    public GameObject bulletPrefab;
+    public GameObject emeraldPrefab;
+    //Tentacle
+    public Transform firePoint2;
+    public GameObject tenPrefab;
     void Start()
     {
         currentHealth = maxHealth;
+        StartCoroutine("AutoAttack");
     }
 
-    private void Update()
+    void Update()
     {
         if (Input.GetKeyDown(KeyCode.L))
         {
-            Shoot();
+            AttackOne();
+        }
+
+        if (Input.GetKeyDown(KeyCode.K))
+        {
+            AttackTwo();
         }
     }
 
-    void Shoot()
+
+    IEnumerator AutoAttack()
     {
-        Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+        while (currentHealth > 5)
+        {
+            yield return new WaitForSeconds(2);
+            AttackOne();
+        }
+        while (currentHealth <= 5 && currentHealth > 0)
+        {
+            AttackOne();
+            yield return new WaitForSeconds(1);
+            AttackTwo();
+            yield return new WaitForSeconds(1);
+        }
     }
+
+    void AttackOne()
+    {
+        greenAnim.SetTrigger("Emerald");
+        Instantiate(emeraldPrefab, firePoint.position, firePoint.rotation);
+    }
+
+    void AttackTwo()
+    {
+        greenAnim.SetTrigger("Ten");
+        Instantiate(tenPrefab, firePoint2.position, firePoint2.rotation);
+    }
+
+
     public void TakeDamage(int damage)
     {
         kakAnim.SetTrigger("Hurt");

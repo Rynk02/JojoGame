@@ -6070,11 +6070,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 280
-        y: 2596
-        width: 43
-        height: 41
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 2566
+        width: 46
+        height: 71
+      alignment: 9
+      pivot: {x: 0.53014076, y: 0.57811123}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6091,11 +6091,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 335
-        y: 2596
-        width: 43
-        height: 41
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 2566
+        width: 47
+        height: 71
+      alignment: 9
+      pivot: {x: 0.50983316, y: 0.6139105}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6157,8 +6157,8 @@ TextureImporter:
         y: 2594
         width: 66
         height: 19
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6178,8 +6178,8 @@ TextureImporter:
         y: 2596
         width: 67
         height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6199,8 +6199,8 @@ TextureImporter:
         y: 2596
         width: 66
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6220,8 +6220,8 @@ TextureImporter:
         y: 2597
         width: 68
         height: 38
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6241,8 +6241,8 @@ TextureImporter:
         y: 2598
         width: 68
         height: 43
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6318,90 +6318,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kak_223
-      rect:
-        serializedVersion: 2
-        x: 287
-        y: 2566
-        width: 38
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3e710332b5a21c7f0800000000000000
-      internalID: -594147104915449885
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kak_224
-      rect:
-        serializedVersion: 2
-        x: 294
-        y: 2577
-        width: 4
-        height: 4
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 820285380ff9fd690800000000000000
-      internalID: -7575160192869326808
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kak_225
-      rect:
-        serializedVersion: 2
-        x: 312
-        y: 2574
-        width: 4
-        height: 4
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5ae0684ff149b2440800000000000000
-      internalID: 4912182683544981157
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kak_226
-      rect:
-        serializedVersion: 2
-        x: 339
-        y: 2566
-        width: 44
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 89406fb9dd56aa210800000000000000
-      internalID: 1344999441202283672
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Kak_227
       rect:
         serializedVersion: 2
@@ -6472,8 +6388,8 @@ TextureImporter:
         y: 2566
         width: 37
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.51249075, y: 5.5259094}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6493,8 +6409,8 @@ TextureImporter:
         y: 2566
         width: 47
         height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.46066868, y: 8.356608}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
