@@ -1537,7 +1537,7 @@ TextureImporter:
     second: DioKnife16
   - first:
       213: 8727994565365667314
-    second: Dio_511
+    second: DioRR1
   - first:
       213: -1867064034915145320
     second: DioKnife17
@@ -1558,7 +1558,7 @@ TextureImporter:
     second: DioKnife20
   - first:
       213: 2308798128748174345
-    second: Dio_518
+    second: DioRR2
   - first:
       213: -1096519744302480724
     second: DioKnife2
@@ -1579,13 +1579,13 @@ TextureImporter:
     second: DioKnife12
   - first:
       213: 1998649824379006180
-    second: Dio_525
+    second: DioRR3
   - first:
       213: 8243767508034677685
-    second: Dio_526
+    second: DioRR4
   - first:
       213: 4831053488719091573
-    second: Dio_527
+    second: DioRR5
   - first:
       213: 7599165823508368846
     second: DioKnife1
@@ -1600,7 +1600,7 @@ TextureImporter:
     second: DioKnife19
   - first:
       213: -4884301330018554650
-    second: Dio_532
+    second: DioRR6
   - first:
       213: 5194231492672710233
     second: Dio_533
@@ -1669,22 +1669,22 @@ TextureImporter:
     second: Dio_554
   - first:
       213: 4526010729817480466
-    second: Dio_555
+    second: DioRR7
   - first:
       213: -5538504045065839857
-    second: Dio_556
+    second: DioRR8
   - first:
       213: -8386758359295522038
-    second: Dio_557
+    second: DioRR9
   - first:
       213: -5215893029541500995
-    second: Dio_558
+    second: DioRR10
   - first:
       213: -3881371330247328891
-    second: Dio_559
+    second: DioRR11
   - first:
       213: 5387225903386793472
-    second: Dio_560
+    second: DioRR12
   - first:
       213: 928233301387103224
     second: Dio_561
@@ -1693,7 +1693,7 @@ TextureImporter:
     second: Dio_562
   - first:
       213: 8088380809404421313
-    second: Dio_563
+    second: DioRR13
   - first:
       213: -3512149590155905709
     second: Dio_564
@@ -1735,16 +1735,16 @@ TextureImporter:
     second: Dio_576
   - first:
       213: -8682738904023115111
-    second: Dio_577
+    second: DioRR14
   - first:
       213: 4758015194742640242
-    second: Dio_578
+    second: DioRR15
   - first:
       213: -1273914474512905004
-    second: Dio_579
+    second: DioRR16
   - first:
       213: 2216438313989190526
-    second: Dio_580
+    second: DioRR19
   - first:
       213: -4387750404471778926
     second: Dio_581
@@ -1768,16 +1768,16 @@ TextureImporter:
     second: Dio_587
   - first:
       213: -1048783434327932120
-    second: Dio_588
+    second: DioRR20
   - first:
       213: 2219081970348385209
-    second: Dio_589
+    second: DioRR21
   - first:
       213: 5295221029259225596
-    second: Dio_590
+    second: DioRR22
   - first:
       213: 6303465259201637715
-    second: Dio_591
+    second: DioRR23
   - first:
       213: -7611130770623967342
     second: Dio_592
@@ -1786,19 +1786,19 @@ TextureImporter:
     second: Dio_593
   - first:
       213: 7730133191702238497
-    second: Dio_594
+    second: DioRR24
   - first:
       213: 1881609827842218470
     second: Dio_595
   - first:
       213: -4697267792185356231
-    second: Dio_596
+    second: DioRR25
   - first:
       213: 8602068269741391902
-    second: Dio_597
+    second: DioRR26
   - first:
       213: -4483009905093662550
-    second: Dio_598
+    second: DioRR27
   - first:
       213: 9211143877222801597
     second: Dio_599
@@ -1810,7 +1810,7 @@ TextureImporter:
     second: Dio_601
   - first:
       213: -7888869961683729488
-    second: Dio_602
+    second: DioRR28
   - first:
       213: -1377902301593400466
     second: Dio_603
@@ -2203,58 +2203,58 @@ TextureImporter:
     second: Dio_732
   - first:
       213: -5806413150059862644
-    second: Dio_733
+    second: DioRR29
   - first:
       213: -2714144324198355155
-    second: Dio_734
+    second: DioRR30
   - first:
       213: -7997790477620886039
-    second: Dio_735
+    second: DioRR31
   - first:
       213: -4699540812380394832
-    second: Dio_736
+    second: DioRR32
   - first:
       213: -2649426595717276516
-    second: Dio_737
+    second: DioRR33
   - first:
       213: -5262015318427534914
-    second: Dio_738
+    second: DioRR34
   - first:
       213: -6164453571546001539
-    second: Dio_739
+    second: DioRR35
   - first:
       213: -6092727610730596690
-    second: Dio_740
+    second: DioRR36
   - first:
       213: -3671086258414070478
     second: DioIntro10
   - first:
       213: 3085908750223270934
-    second: Dio_742
+    second: DioRR37
   - first:
       213: -7526723939591874489
-    second: Dio_743
+    second: DioRR38
   - first:
       213: 3454587384158460618
-    second: Dio_744
+    second: DioRR39
   - first:
       213: 8909717222398597471
-    second: Dio_745
+    second: DioRR40
   - first:
       213: 8068432976549926538
-    second: Dio_746
+    second: DioRR41
   - first:
       213: 8443367794432829747
-    second: Dio_747
+    second: DioRR42
   - first:
       213: 645112797929714113
-    second: Dio_748
+    second: DioRR43
   - first:
       213: -431076049973735686
-    second: Dio_749
+    second: DioRR44
   - first:
       213: 8135045783476016070
-    second: Dio_750
+    second: DioRR45
   - first:
       213: 5092164788948500948
     second: DioIntro1
@@ -2999,6 +2999,279 @@ TextureImporter:
   - first:
       213: 4231284569394019551
     second: Dio_998
+  - first:
+      213: -8607204236930503028
+    second: DioRR46
+  - first:
+      213: -4039590543239190502
+    second: DioRR47
+  - first:
+      213: 6593157879922327172
+    second: DioRR48
+  - first:
+      213: 5274631174351521667
+    second: DioRR49
+  - first:
+      213: -20801312549934561
+    second: DioRR50
+  - first:
+      213: 3613523806244624374
+    second: DioRR51
+  - first:
+      213: -6705031223484472264
+    second: DioRR52
+  - first:
+      213: -3576906174298515313
+    second: DioRR53
+  - first:
+      213: 3428338158128153330
+    second: DioRR54
+  - first:
+      213: 9141761530121557653
+    second: DioRR55
+  - first:
+      213: -55069205328445668
+    second: DioRR56
+  - first:
+      213: 6263543062300712822
+    second: DioRR57
+  - first:
+      213: -1536695586205524523
+    second: DioRR58
+  - first:
+      213: 1931300812720521242
+    second: DioRR59
+  - first:
+      213: -6503494576855111246
+    second: DioRR60
+  - first:
+      213: -4626974979123789841
+    second: DioRR61
+  - first:
+      213: 918053832984346009
+    second: DioRR75
+  - first:
+      213: -5813347282785782111
+    second: DioRR89
+  - first:
+      213: 2079477939703564217
+    second: DioRR103
+  - first:
+      213: -9071702067112860722
+    second: DioRR117
+  - first:
+      213: -2239669310188393536
+    second: DioRR131
+  - first:
+      213: -667577995864835257
+    second: DioRR62
+  - first:
+      213: 6028880411506122394
+    second: DioRR76
+  - first:
+      213: -3487936289797197198
+    second: DioRR90
+  - first:
+      213: -4605183236336406057
+    second: DioRR104
+  - first:
+      213: 8209485292957266224
+    second: DioRR118
+  - first:
+      213: 540714964258912442
+    second: DioRR132
+  - first:
+      213: 3097029103500332907
+    second: DioRR63
+  - first:
+      213: -7768507092060960386
+    second: DioRR77
+  - first:
+      213: 6186829217312869849
+    second: DioRR91
+  - first:
+      213: 7796106520100607382
+    second: DioRR105
+  - first:
+      213: -8503875178457003713
+    second: DioRR119
+  - first:
+      213: -3120752094150442864
+    second: DioRR133
+  - first:
+      213: -9052427657010732183
+    second: DioRR64
+  - first:
+      213: 5269865756688441660
+    second: DioRR78
+  - first:
+      213: 995179648166899612
+    second: DioRR92
+  - first:
+      213: 4606639244125600090
+    second: DioRR106
+  - first:
+      213: 3900953467850730559
+    second: DioRR120
+  - first:
+      213: 3569621650642623319
+    second: DioRR134
+  - first:
+      213: -4784066916051424219
+    second: DioRR65
+  - first:
+      213: 7828709682425634299
+    second: DioRR79
+  - first:
+      213: -3217020878109727612
+    second: DioRR93
+  - first:
+      213: 4694440732661274785
+    second: DioRR107
+  - first:
+      213: 6772062280845427643
+    second: DioRR121
+  - first:
+      213: 2533790342748760138
+    second: DioRR135
+  - first:
+      213: -7542142149849436774
+    second: DioRR136
+  - first:
+      213: 1774857504264398029
+    second: DioRR122
+  - first:
+      213: -8622756523817783359
+    second: DioRR108
+  - first:
+      213: 8418420833840660275
+    second: DioRR94
+  - first:
+      213: -4206035781232597345
+    second: DioRR80
+  - first:
+      213: 3474427714663451272
+    second: DioRR66
+  - first:
+      213: -3310435287386979873
+    second: DioRR67
+  - first:
+      213: 2912741015992964004
+    second: DioRR81
+  - first:
+      213: -5725556441229363625
+    second: DioRR95
+  - first:
+      213: -7634153324380297318
+    second: DioRR109
+  - first:
+      213: 3890759782166899543
+    second: DioRR123
+  - first:
+      213: 1041740837929754769
+    second: DioRR68
+  - first:
+      213: 2925455375512219358
+    second: DioRR82
+  - first:
+      213: -7102325630259066744
+    second: DioRR96
+  - first:
+      213: 3236368849993553148
+    second: DioRR110
+  - first:
+      213: 840463305914217806
+    second: DioRR124
+  - first:
+      213: -8050095313423572453
+    second: DioRR69
+  - first:
+      213: 5276866890243893798
+    second: DioRR83
+  - first:
+      213: 7817112893076457874
+    second: DioRR97
+  - first:
+      213: 6956267974798116267
+    second: DioRR111
+  - first:
+      213: -6739020959599669288
+    second: DioRR125
+  - first:
+      213: -5012049395872574655
+    second: DioRR70
+  - first:
+      213: 1651145173071954165
+    second: DioRR84
+  - first:
+      213: -3330253837774499110
+    second: DioRR98
+  - first:
+      213: -6481182112772942503
+    second: DioRR112
+  - first:
+      213: -7284301363769706868
+    second: DioRR126
+  - first:
+      213: -5565947534276821036
+    second: DioRR71
+  - first:
+      213: 6121145865278157062
+    second: DioRR72
+  - first:
+      213: 9086607665990561976
+    second: DioRR73
+  - first:
+      213: -4289094700398209213
+    second: DioRR74
+  - first:
+      213: -2589292170731020210
+    second: DioRR85
+  - first:
+      213: -8621441126041532842
+    second: DioRR86
+  - first:
+      213: 6111517766521882542
+    second: DioRR87
+  - first:
+      213: -7369660484855010368
+    second: DioRR88
+  - first:
+      213: -4855342581499163599
+    second: DioRR99
+  - first:
+      213: 2175291581881014375
+    second: DioRR100
+  - first:
+      213: -9159469669920893469
+    second: DioRR101
+  - first:
+      213: 5314285081761209189
+    second: DioRR102
+  - first:
+      213: 1266769905096473267
+    second: DioRR113
+  - first:
+      213: 4056519566164301710
+    second: DioRR114
+  - first:
+      213: 3802358862467398247
+    second: DioRR115
+  - first:
+      213: -7310924921535685134
+    second: DioRR116
+  - first:
+      213: 313592746253440791
+    second: DioRR127
+  - first:
+      213: -9182645470513975133
+    second: DioRR128
+  - first:
+      213: 4069565039987275328
+    second: DioRR129
+  - first:
+      213: 1549894062723486761
+    second: DioRR130
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -14760,27 +15033,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dio_602
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 4728
-        width: 4827
-        height: 2320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0b3879e119a158290800000000000000
-      internalID: -7888869961683729488
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Dio_603
       rect:
         serializedVersion: 2
@@ -22874,7 +23126,7 @@ TextureImporter:
         width: 111
         height: 77
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -22895,7 +23147,7 @@ TextureImporter:
         width: 118
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -22916,7 +23168,7 @@ TextureImporter:
         width: 130
         height: 98
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -22937,7 +23189,7 @@ TextureImporter:
         width: 137
         height: 98
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -22958,7 +23210,7 @@ TextureImporter:
         width: 134
         height: 86
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -22979,7 +23231,7 @@ TextureImporter:
         width: 133
         height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -23000,7 +23252,7 @@ TextureImporter:
         width: 94
         height: 106
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -23021,7 +23273,7 @@ TextureImporter:
         width: 103
         height: 94
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -23042,7 +23294,7 @@ TextureImporter:
         width: 126
         height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -23063,7 +23315,7 @@ TextureImporter:
         width: 126
         height: 82
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -23084,7 +23336,7 @@ TextureImporter:
         width: 109
         height: 88
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -23105,7 +23357,7 @@ TextureImporter:
         width: 101
         height: 87
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -23126,7 +23378,7 @@ TextureImporter:
         width: 143
         height: 49
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -23147,7 +23399,7 @@ TextureImporter:
         width: 147
         height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -23168,7 +23420,7 @@ TextureImporter:
         width: 151
         height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -23176,6 +23428,2820 @@ TextureImporter:
       bones: []
       spriteID: a18d49bcaf1d62d90800000000000000
       internalID: -7122774885552302054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6847
+        width: 68
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5192670d0102970800000000000000
+      internalID: 8727994565365667314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 6864
+        width: 77
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c1f126aaf7a0020800000000000000
+      internalID: 2308798128748174345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 6864
+        width: 77
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ece18c0d61acbb10800000000000000
+      internalID: 1998649824379006180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 6829
+        width: 332
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb60570fdeb76270800000000000000
+      internalID: 8243767508034677685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR5
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 6829
+        width: 332
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577530e4d895b0340800000000000000
+      internalID: 4831053488719091573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR6
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 6808
+        width: 334
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eca64881d9773cb0800000000000000
+      internalID: -4884301330018554650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR7
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 6813
+        width: 332
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d906867ce9fce30800000000000000
+      internalID: 4526010729817480466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR8
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 6813
+        width: 331
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b59ce4ae74323b0800000000000000
+      internalID: -5538504045065839857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR9
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 6815
+        width: 332
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b072905bf3c9b80800000000000000
+      internalID: -8386758359295522038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR10
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 6815
+        width: 332
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db72eb3bcec6d97b0800000000000000
+      internalID: -5215893029541500995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR11
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 6814
+        width: 332
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bf83be659922ac0800000000000000
+      internalID: -3881371330247328891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR12
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 6816
+        width: 330
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00617289a6543ca40800000000000000
+      internalID: 5387225903386793472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR13
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 6815
+        width: 332
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c413a8fd73bf3070800000000000000
+      internalID: 8088380809404421313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR14
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 6815
+        width: 331
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99adc3c48f6b08780800000000000000
+      internalID: -8682738904023115111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR15
+      rect:
+        serializedVersion: 2
+        x: 3993
+        y: 6816
+        width: 331
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ecb8e4c9dd70240800000000000000
+      internalID: 4758015194742640242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR16
+      rect:
+        serializedVersion: 2
+        x: 4329
+        y: 6814
+        width: 331
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc0e60f885225ee0800000000000000
+      internalID: -1273914474512905004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6578
+        width: 337
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7334e347ee52ce10800000000000000
+      internalID: 2216438313989190526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR20
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 6577
+        width: 326
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823c19ee509f171f0800000000000000
+      internalID: -1048783434327932120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR21
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 6577
+        width: 334
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3e61a7b43cbce10800000000000000
+      internalID: 2219081970348385209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR22
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 6579
+        width: 330
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9ac2888776c7940800000000000000
+      internalID: 5295221029259225596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR23
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 6579
+        width: 333
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35daabc81486a7750800000000000000
+      internalID: 6303465259201637715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR24
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 6578
+        width: 332
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1255edd8e23f64b60800000000000000
+      internalID: 7730133191702238497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR25
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 6580
+        width: 339
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93098e784d3ffceb0800000000000000
+      internalID: -4697267792185356231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR26
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 6578
+        width: 330
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10489ff38fa06770800000000000000
+      internalID: 8602068269741391902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR27
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 6578
+        width: 337
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8a55a4e3629c1c0800000000000000
+      internalID: -4483009905093662550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR28
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 6578
+        width: 331
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3879e119a158290800000000000000
+      internalID: -7888869961683729488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR29
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 6578
+        width: 335
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c856683f00a7b6fa0800000000000000
+      internalID: -5806413150059862644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR30
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 6579
+        width: 334
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fa3070e1c655ad0800000000000000
+      internalID: -2714144324198355155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR31
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 6578
+        width: 335
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5c7694fe3220190800000000000000
+      internalID: -7997790477620886039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR32
+      rect:
+        serializedVersion: 2
+        x: 4453
+        y: 6578
+        width: 338
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baad96c780e7ceb0800000000000000
+      internalID: -4699540812380394832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 6366
+        width: 330
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c9cc76c885b3bd0800000000000000
+      internalID: -2649426595717276516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR34
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 6364
+        width: 336
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9767e72f099f6b0800000000000000
+      internalID: -5262015318427534914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR35
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 6363
+        width: 331
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fcc992326737aa0800000000000000
+      internalID: -6164453571546001539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR36
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 6363
+        width: 334
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea63039c488427ba0800000000000000
+      internalID: -6092727610730596690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR37
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 6363
+        width: 336
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614e35298a953da20800000000000000
+      internalID: 3085908750223270934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR38
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 6365
+        width: 341
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748923a8474bb8790800000000000000
+      internalID: -7526723939591874489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR39
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 6364
+        width: 330
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca9f463ce821ff20800000000000000
+      internalID: 3454587384158460618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR40
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 6364
+        width: 336
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f599f3aab9ca5ab70800000000000000
+      internalID: 8909717222398597471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR41
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 6364
+        width: 332
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a865e453b05d8ff60800000000000000
+      internalID: 8068432976549926538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR42
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 6365
+        width: 325
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339642f264edc2570800000000000000
+      internalID: 8443367794432829747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR43
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 6364
+        width: 334
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1b8a8fba6e3f800800000000000000
+      internalID: 645112797929714113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR44
+      rect:
+        serializedVersion: 2
+        x: 3786
+        y: 6365
+        width: 334
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe0322dd92840af0800000000000000
+      internalID: -431076049973735686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR45
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 6367
+        width: 337
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c390abe90d75e070800000000000000
+      internalID: 8135045783476016070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR46
+      rect:
+        serializedVersion: 2
+        x: 4471
+        y: 6365
+        width: 328
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e258479511d8880800000000000000
+      internalID: -8607204236930503028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR47
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 6153
+        width: 328
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a186338bdcd70f7c0800000000000000
+      internalID: -4039590543239190502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR48
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 6152
+        width: 332
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e76d4e82a9f7b50800000000000000
+      internalID: 6593157879922327172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR49
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 6154
+        width: 336
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3878c6c5b11433940800000000000000
+      internalID: 5274631174351521667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR50
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 6155
+        width: 330
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a6992015916bff0800000000000000
+      internalID: -20801312549934561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR51
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 6154
+        width: 339
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7d0aaa1c0d52230800000000000000
+      internalID: 3613523806244624374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR52
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 6152
+        width: 329
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8342e4480a1f2f2a0800000000000000
+      internalID: -6705031223484472264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR53
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 6152
+        width: 336
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88190629c64c5ec0800000000000000
+      internalID: -3576906174298515313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR54
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 6152
+        width: 333
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f245250467e39f20800000000000000
+      internalID: 3428338158128153330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR55
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 6153
+        width: 332
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5961a303daf0ede70800000000000000
+      internalID: 9141761530121557653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR56
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 6148
+        width: 333
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fb55a79da5c3ff0800000000000000
+      internalID: -55069205328445668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR57
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 6147
+        width: 334
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fdbcfba339ce650800000000000000
+      internalID: 6263543062300712822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR58
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 6150
+        width: 342
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd1f40918f8caae0800000000000000
+      internalID: -1536695586205524523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR59
+      rect:
+        serializedVersion: 2
+        x: 4130
+        y: 6145
+        width: 330
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1041a05bdb5dca10800000000000000
+      internalID: 1931300812720521242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR60
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 6149
+        width: 330
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b92fdba322feb5a0800000000000000
+      internalID: -6503494576855111246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR61
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5928
+        width: 331
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefb4b075cea9cfb0800000000000000
+      internalID: -4626974979123789841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR75
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5716
+        width: 338
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99db7b7d8159dbc00800000000000000
+      internalID: 918053832984346009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR89
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 5500
+        width: 335
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6329d5277d25fa0800000000000000
+      internalID: -5813347282785782111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR103
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5291
+        width: 340
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7ca4a2b2acbdc10800000000000000
+      internalID: 2079477939703564217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR117
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 5078
+        width: 331
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3af8da807da1280800000000000000
+      internalID: -9071702067112860722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR131
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4839
+        width: 335
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb60efe0a81be0e0800000000000000
+      internalID: -2239669310188393536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR62
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 5937
+        width: 331
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bfb9889594cb6f0800000000000000
+      internalID: -667577995864835257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR76
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 5714
+        width: 332
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e1229bac2eaa350800000000000000
+      internalID: 6028880411506122394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR90
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 5503
+        width: 338
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272b17f9c6c589fc0800000000000000
+      internalID: -3487936289797197198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR104
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 5284
+        width: 331
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1b590fe3a1710c0800000000000000
+      internalID: -4605183236336406057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR118
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 5081
+        width: 338
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031f283d063fde170800000000000000
+      internalID: 8209485292957266224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR132
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 4838
+        width: 332
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8f3692561018700800000000000000
+      internalID: 540714964258912442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR63
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 5933
+        width: 337
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f0f259f8bdafa20800000000000000
+      internalID: 3097029103500332907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR77
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 5718
+        width: 341
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e798a9685f7b03490800000000000000
+      internalID: -7768507092060960386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR91
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 5497
+        width: 331
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd01f7d4680cd550800000000000000
+      internalID: 6186829217312869849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR105
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 5287
+        width: 338
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69514b11395513c60800000000000000
+      internalID: 7796106520100607382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR119
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 5082
+        width: 334
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f390fc5a49a2cf980800000000000000
+      internalID: -8503875178457003713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR133
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 4838
+        width: 336
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0904b1c318cd0b4d0800000000000000
+      internalID: -3120752094150442864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR64
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 5939
+        width: 342
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96324fcf1015f5280800000000000000
+      internalID: -9052427657010732183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR78
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 5714
+        width: 332
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31e8691cf2522940800000000000000
+      internalID: 5269865756688441660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR92
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 5499
+        width: 338
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fafa80e969fcd00800000000000000
+      internalID: 995179648166899612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR106
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 5286
+        width: 333
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59fa7a4cf11eef30800000000000000
+      internalID: 4606639244125600090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR120
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 5077
+        width: 338
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c2298c288f22630800000000000000
+      internalID: 3900953467850730559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR134
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 4838
+        width: 334
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bd8158af7d98130800000000000000
+      internalID: 3569621650642623319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR65
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 5934
+        width: 332
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c6e07ac749b9db0800000000000000
+      internalID: -4784066916051424219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR79
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 5718
+        width: 338
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd14a65af925ac60800000000000000
+      internalID: 7828709682425634299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR93
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 5500
+        width: 333
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484214d4e88da53d0800000000000000
+      internalID: -3217020878109727612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR107
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 5285
+        width: 335
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8566169f0062140800000000000000
+      internalID: 4694440732661274785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR121
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 5078
+        width: 334
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb30d96b3c23bfd50800000000000000
+      internalID: 6772062280845427643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR135
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 4837
+        width: 333
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48ead264e4d92320800000000000000
+      internalID: 2533790342748760138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR136
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 4837
+        width: 336
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d29b8bcade45790800000000000000
+      internalID: -7542142149849436774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR122
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 5078
+        width: 333
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4ad9c1f7f81a810800000000000000
+      internalID: 1774857504264398029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR108
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 5286
+        width: 334
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfa82d70a0d55880800000000000000
+      internalID: -8622756523817783359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR94
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 5497
+        width: 334
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ff1da452d34d470800000000000000
+      internalID: 8418420833840660275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR80
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 5716
+        width: 335
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f966c03ddb821a5c0800000000000000
+      internalID: -4206035781232597345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR66
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 5936
+        width: 337
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a89422995a73030800000000000000
+      internalID: 3474427714663451272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR67
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 5932
+        width: 334
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1816345a8fe02d0800000000000000
+      internalID: -3310435287386979873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR81
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 5714
+        width: 336
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a398fc85822c6820800000000000000
+      internalID: 2912741015992964004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR95
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 5501
+        width: 336
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756f21380ccba80b0800000000000000
+      internalID: -5725556441229363625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR109
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 5286
+        width: 336
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97e17bbff90e0690800000000000000
+      internalID: -7634153324380297318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR123
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 5080
+        width: 334
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b2f626861cef530800000000000000
+      internalID: 3890759782166899543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR68
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 5933
+        width: 337
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19022d0d5c1057e00800000000000000
+      internalID: 1041740837929754769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR82
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 5713
+        width: 332
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edea9af0a2e499820800000000000000
+      internalID: 2925455375512219358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR96
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 5498
+        width: 334
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888814118787f6d90800000000000000
+      internalID: -7102325630259066744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR110
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 5287
+        width: 340
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf451027254e9ec20800000000000000
+      internalID: 3236368849993553148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR124
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 5080
+        width: 330
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4574cb7cece9ab00800000000000000
+      internalID: 840463305914217806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR69
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 5936
+        width: 334
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12e953b6f0584090800000000000000
+      internalID: -8050095313423572453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR83
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 5716
+        width: 336
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ae1088a723b3940800000000000000
+      internalID: 5276866890243893798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR97
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 5500
+        width: 339
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299c2f862c6fb7c60800000000000000
+      internalID: 7817112893076457874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR111
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 5282
+        width: 329
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba584400ed0a98060800000000000000
+      internalID: 6956267974798116267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR125
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 5082
+        width: 343
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df462164203a72a0800000000000000
+      internalID: -6739020959599669288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR70
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 5933
+        width: 334
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143dd4221af917ab0800000000000000
+      internalID: -5012049395872574655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR84
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 5720
+        width: 343
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f00e8969cb0ae610800000000000000
+      internalID: 1651145173071954165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR98
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 5498
+        width: 332
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2d19b67cf88c1d0800000000000000
+      internalID: -3330253837774499110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR112
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 5287
+        width: 337
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9559d8b05373e06a0800000000000000
+      internalID: -6481182112772942503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR126
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 5077
+        width: 329
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86fc97e086f8ea90800000000000000
+      internalID: -7284301363769706868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR71
+      rect:
+        serializedVersion: 2
+        x: 3428
+        y: 5938
+        width: 338
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dff7fc0538c1c2b0800000000000000
+      internalID: -5565947534276821036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR72
+      rect:
+        serializedVersion: 2
+        x: 3771
+        y: 5932
+        width: 334
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6017146bbbda2f450800000000000000
+      internalID: 6121145865278157062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR73
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 5935
+        width: 336
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b075b0878d1a1e70800000000000000
+      internalID: 9086607665990561976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR74
+      rect:
+        serializedVersion: 2
+        x: 4458
+        y: 5932
+        width: 333
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34711c638131a74c0800000000000000
+      internalID: -4289094700398209213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR85
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 5715
+        width: 330
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40a0e74d7cf01cd0800000000000000
+      internalID: -2589292170731020210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR86
+      rect:
+        serializedVersion: 2
+        x: 3771
+        y: 5716
+        width: 337
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656c95669fc7a5880800000000000000
+      internalID: -8621441126041532842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR87
+      rect:
+        serializedVersion: 2
+        x: 4114
+        y: 5714
+        width: 334
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea78608470970d450800000000000000
+      internalID: 6111517766521882542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR88
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 5716
+        width: 336
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbebfcc5d4b9b990800000000000000
+      internalID: -7369660484855010368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR99
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 5498
+        width: 337
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c0ae695ab5e9cb0800000000000000
+      internalID: -4855342581499163599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR100
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 5497
+        width: 333
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7685ae42b20303e10800000000000000
+      internalID: 2175291581881014375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR101
+      rect:
+        serializedVersion: 2
+        x: 4119
+        y: 5498
+        width: 336
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e596693dd603e080800000000000000
+      internalID: -9159469669920893469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR102
+      rect:
+        serializedVersion: 2
+        x: 4461
+        y: 5499
+        width: 334
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bd885202220c940800000000000000
+      internalID: 5314285081761209189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR113
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 5285
+        width: 338
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba3e6d5488749110800000000000000
+      internalID: 1266769905096473267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR114
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 5284
+        width: 334
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8715a59d07ab4830800000000000000
+      internalID: 4056519566164301710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR115
+      rect:
+        serializedVersion: 2
+        x: 4121
+        y: 5285
+        width: 334
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a7de95d31b4c430800000000000000
+      internalID: 3802358862467398247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR116
+      rect:
+        serializedVersion: 2
+        x: 4459
+        y: 5285
+        width: 338
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd9050d4806a8a90800000000000000
+      internalID: -7310924921535685134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR127
+      rect:
+        serializedVersion: 2
+        x: 3422
+        y: 5081
+        width: 340
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7175394f0fa1a5400800000000000000
+      internalID: 313592746253440791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR128
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 5078
+        width: 332
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a03aa7a890b09080800000000000000
+      internalID: -9182645470513975133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR129
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 5078
+        width: 334
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0463ac6a7dff97830800000000000000
+      internalID: 4069565039987275328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DioRR130
+      rect:
+        serializedVersion: 2
+        x: 4449
+        y: 5078
+        width: 337
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924de183074528510800000000000000
+      internalID: 1549894062723486761
       vertices: []
       indices: 
       edges: []
