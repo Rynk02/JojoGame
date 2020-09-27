@@ -80,8 +80,9 @@ public class KakScript : MonoBehaviour
 
     void Die()
     {
+        GameObject green = GameObject.Find("Green");
+        green.SetActive(false);
         kakAnim.SetBool("isDead", true);
-        Debug.Log("Kak Dead");
         this.enabled = false;
         Invoke("LoadNextScene", 4);
         

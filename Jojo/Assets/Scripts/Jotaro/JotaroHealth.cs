@@ -16,11 +16,6 @@ public class JotaroHealth : MonoBehaviour
         healthBar.SetMaxHealth(maxHealth);
     }
 
-    private void Update()
-    {
-
-    }
-
     public void TakeDamage(int damage)
     {
         jotaroAnim.SetTrigger("Hurt");
@@ -35,8 +30,12 @@ public class JotaroHealth : MonoBehaviour
 
     void Die()
     {
+        GameObject star = GameObject.Find("StarP");
+        star.GetComponent<Renderer>().enabled = false;
         jotaroAnim.SetBool("isDead", true);
         jotaro = GameObject.FindGameObjectWithTag("Player");
+        JotaroMovement moveScript = jotaro.GetComponent<JotaroMovement>();
+        moveScript.rb.velocity = transform.right * 0;
         jotaro.GetComponent<JotaroMovement>().enabled = false;
         Invoke("LoadDeathScene", 4);
 

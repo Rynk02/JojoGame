@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class JotaroCombat : MonoBehaviour
 {
@@ -12,15 +13,21 @@ public class JotaroCombat : MonoBehaviour
 
     public int attackDamage = 1;
 
+    public float attackRate = 2f;
+    float nextAttackTime = 0f;
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.O) && Input.GetKey(KeyCode.P) == false)
+        if(Time.time >= nextAttackTime)
         {
-            Attack();
-        }
-        if (Input.GetKey(KeyCode.P))
-        {
-            starAnim.SetTrigger("Block");
+            if (Input.GetKeyDown(KeyCode.O) && Input.GetKey(KeyCode.P) == false)
+            {
+                Attack();
+                nextAttackTime = Time.time + 1f / attackRate;
+            }
+            if (Input.GetKey(KeyCode.P))
+            {
+                starAnim.SetTrigger("Block");
+            }
         }
     }
 
@@ -29,9 +36,20 @@ public class JotaroCombat : MonoBehaviour
         starAnim.SetTrigger("Attack");
 
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, EnemyLayers);
-        foreach(Collider2D enemy in hitEnemies)
+        foreach (Collider2D enemy in hitEnemies)
         {
-            enemy.GetComponent<KakScript>().TakeDamage(attackDamage);
+            if (SceneManager.GetActiveScene().buildIndex == 1)
+            {
+                enemy.GetComponent<KakScript>().TakeDamage(attackDamage);
+            }
+            else if (SceneManager.GetActiveScene().buildIndex == 2)
+            {
+                enemy.GetComponent<Jean>().TakeDamage(attackDamage);
+            }
+            else if (SceneManager.GetActiveScene().buildIndex == 3)
+            {
+                enemy.GetComponent<Dio>().TakeDamage(attackDamage);
+            }
         }
     }
 
