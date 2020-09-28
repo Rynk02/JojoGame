@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8236581829648480380
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8236581829648480378}
+  - component: {fileID: 8236581829648480381}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8236581829648480378
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8236581829648480380}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.806583, y: 0.3110349, z: -3.8520827}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8236581829648480381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8236581829648480380}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14fea632a7559c845822d023699d2645, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: BackgroundMusic
+    clip: {fileID: 8300000, guid: ed911e2d9c873934bb9cc17703a388ad, type: 3}
+    volume: 0
+    outputAudioMixerGroup: {fileID: 24300002, guid: 4e092b3c3e4d4ae4f97b1beec59acdab,
+      type: 2}
+    loop: 1
+    source: {fileID: 0}
+  - name: EmeraldSplash
+    clip: {fileID: 8300000, guid: 8ea4573a3afe6014c8d9246a941e3e67, type: 3}
+    volume: 1
+    outputAudioMixerGroup: {fileID: 24300002, guid: 4e092b3c3e4d4ae4f97b1beec59acdab,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: Ora
+    clip: {fileID: 8300000, guid: 159ef48dbfcacf94b9dc155d7f0d7e34, type: 3}
+    volume: 1
+    outputAudioMixerGroup: {fileID: 24300002, guid: 4e092b3c3e4d4ae4f97b1beec59acdab,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: DioIntro
+    clip: {fileID: 8300000, guid: 5fb6f727b87faa14a989e3358313210b, type: 3}
+    volume: 1
+    outputAudioMixerGroup: {fileID: 24300002, guid: 4e092b3c3e4d4ae4f97b1beec59acdab,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: SilverC
+    clip: {fileID: 8300000, guid: 21d9ea10646e7374ab99666e5a78f82e, type: 3}
+    volume: 1
+    outputAudioMixerGroup: {fileID: 24300002, guid: 4e092b3c3e4d4ae4f97b1beec59acdab,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}

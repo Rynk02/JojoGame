@@ -27,22 +27,11 @@ public class Dio : MonoBehaviour
         currentHealth = maxHealth;
         player = GameObject.FindGameObjectWithTag("Player").transform;
         StartCoroutine("AutoAttack");
+        FindObjectOfType<AudioManager>().Play("DioIntro");
     }
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.I))
-        {
-            dioAnim.SetTrigger("Knife");
-        }
-        if (Input.GetKeyDown(KeyCode.L))
-        {
-            Attack();
-        }
-        if (Input.GetKeyDown(KeyCode.K))
-        {
-            backToStart();
-        }
         if (start)
         {
             Vector2 target = new Vector2(startPos.position.x, rb.position.y);
@@ -75,6 +64,7 @@ public class Dio : MonoBehaviour
 
     IEnumerator AutoAttack()
     {
+        yield return new WaitForSeconds(4);
         while (currentHealth > 10)
         {
             yield return new WaitForSeconds(2);

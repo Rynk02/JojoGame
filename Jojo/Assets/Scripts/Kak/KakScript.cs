@@ -20,6 +20,7 @@ public class KakScript : MonoBehaviour
     public GameObject tenPrefab;
     void Start()
     {
+        FindObjectOfType<AudioManager>().Play("EmeraldSplash");
         currentHealth = maxHealth;
         StartCoroutine("AutoAttack");
     }

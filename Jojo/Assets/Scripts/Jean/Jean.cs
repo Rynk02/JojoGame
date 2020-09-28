@@ -22,6 +22,7 @@ public class Jean : MonoBehaviour
     int currentHealth;
     void Start()
     {
+        FindObjectOfType<AudioManager>().Play("SilverC");
         currentHealth = maxHealth;
         player = GameObject.FindGameObjectWithTag("Player").transform;
     }

@@ -21,6 +21,7 @@ public class JotaroCombat : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.O) && Input.GetKey(KeyCode.P) == false)
             {
+                FindObjectOfType<AudioManager>().Play("Ora");
                 Attack();
                 nextAttackTime = Time.time + 1f / attackRate;
             }
