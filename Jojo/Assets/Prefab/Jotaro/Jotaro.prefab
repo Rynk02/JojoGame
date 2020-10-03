@@ -405,4 +405,5 @@ MonoBehaviour:
   EnemyLayers:
     serializedVersion: 2
     m_Bits: 1024
-  attackDamage: 5
+  attackDamage: 1
+  attackRate: 2
