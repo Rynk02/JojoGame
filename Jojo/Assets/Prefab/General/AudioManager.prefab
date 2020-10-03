@@ -46,7 +46,7 @@ MonoBehaviour:
   sounds:
   - name: BackgroundMusic
     clip: {fileID: 8300000, guid: ed911e2d9c873934bb9cc17703a388ad, type: 3}
-    volume: 0
+    volume: 1
     outputAudioMixerGroup: {fileID: 24300002, guid: 4e092b3c3e4d4ae4f97b1beec59acdab,
       type: 2}
     loop: 1
@@ -74,6 +74,41 @@ MonoBehaviour:
     source: {fileID: 0}
   - name: SilverC
     clip: {fileID: 8300000, guid: 21d9ea10646e7374ab99666e5a78f82e, type: 3}
+    volume: 1
+    outputAudioMixerGroup: {fileID: 24300002, guid: 4e092b3c3e4d4ae4f97b1beec59acdab,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: ZaWarudo
+    clip: {fileID: 8300000, guid: 7e6e650f08e8e8241b57107084372b0c, type: 3}
+    volume: 1
+    outputAudioMixerGroup: {fileID: 24300002, guid: 4e092b3c3e4d4ae4f97b1beec59acdab,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: ZW
+    clip: {fileID: 8300000, guid: 0f2dd557ed6106543a71669b02a4ed5f, type: 3}
+    volume: 1
+    outputAudioMixerGroup: {fileID: 24300002, guid: 4e092b3c3e4d4ae4f97b1beec59acdab,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: ZWR
+    clip: {fileID: 8300000, guid: c3b97728bb2167b42a1214ab72e9d420, type: 3}
+    volume: 1
+    outputAudioMixerGroup: {fileID: 24300002, guid: 4e092b3c3e4d4ae4f97b1beec59acdab,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: FastMuda
+    clip: {fileID: 8300000, guid: 2a4ae5c479be5ab4b9ec96a83630ba11, type: 3}
+    volume: 1
+    outputAudioMixerGroup: {fileID: 24300002, guid: 4e092b3c3e4d4ae4f97b1beec59acdab,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: RoadRoller
+    clip: {fileID: 8300000, guid: 5ab5b38f0e08bcf4e9ee679835b65339, type: 3}
     volume: 1
     outputAudioMixerGroup: {fileID: 24300002, guid: 4e092b3c3e4d4ae4f97b1beec59acdab,
       type: 2}

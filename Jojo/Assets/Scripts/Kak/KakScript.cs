@@ -25,19 +25,6 @@ public class KakScript : MonoBehaviour
         StartCoroutine("AutoAttack");
     }
 
-    void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.L))
-        {
-            AttackOne();
-        }
-
-        if (Input.GetKeyDown(KeyCode.K))
-        {
-            AttackTwo();
-        }
-    }
-
 
     IEnumerator AutoAttack()
     {

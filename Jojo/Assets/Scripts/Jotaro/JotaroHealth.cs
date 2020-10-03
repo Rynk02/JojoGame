@@ -37,7 +37,7 @@ public class JotaroHealth : MonoBehaviour
         JotaroMovement moveScript = jotaro.GetComponent<JotaroMovement>();
         moveScript.rb.velocity = transform.right * 0;
         jotaro.GetComponent<JotaroMovement>().enabled = false;
-        Invoke("LoadDeathScene", 4);
+        Invoke("LoadDeathScene", 5);
 
     }
 
