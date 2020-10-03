@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class JotaroCombat : MonoBehaviour
 {
-
+    public static bool isBlocking = false;
     public Animator starAnim;
     public Transform attackPoint;
     public float attackRange = 0.5f;
@@ -25,8 +25,9 @@ public class JotaroCombat : MonoBehaviour
                 Attack();
                 nextAttackTime = Time.time + 1f / attackRate;
             }
-            if (Input.GetKey(KeyCode.P))
+            if (Input.GetKey(KeyCode.P) && Input.GetKeyDown(KeyCode.O) == false)
             {
+                isBlocking = true;
                 starAnim.SetTrigger("Block");
             }
         }

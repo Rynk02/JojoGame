@@ -10,12 +10,22 @@ public class JotaroHealth : MonoBehaviour
     public Animator jotaroAnim;
     private GameObject jotaro;
     public HealthBar healthBar;
-    private void Start()
+    public GameObject star;
+    public JotaroMovement moveScript;
+    void Awake()
     {
         currentHealth = maxHealth;
         healthBar.SetMaxHealth(maxHealth);
     }
+    void Die()
+    {
+        star.GetComponent<Renderer>().enabled = false;
+        jotaroAnim.SetBool("isDead", true);
+        moveScript.rb.velocity = transform.right * 0;
+        moveScript.enabled = false;
+        Invoke("LoadDeathScene", 5);
 
+    }
     public void TakeDamage(int damage)
     {
         jotaroAnim.SetTrigger("Hurt");
@@ -26,19 +36,6 @@ public class JotaroHealth : MonoBehaviour
         {
             Die();
         }
-    }
-
-    void Die()
-    {
-        GameObject star = GameObject.Find("StarP");
-        star.GetComponent<Renderer>().enabled = false;
-        jotaroAnim.SetBool("isDead", true);
-        jotaro = GameObject.FindGameObjectWithTag("Player");
-        JotaroMovement moveScript = jotaro.GetComponent<JotaroMovement>();
-        moveScript.rb.velocity = transform.right * 0;
-        jotaro.GetComponent<JotaroMovement>().enabled = false;
-        Invoke("LoadDeathScene", 5);
-
     }
 
     void LoadDeathScene()

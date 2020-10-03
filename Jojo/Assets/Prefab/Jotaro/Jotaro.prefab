@@ -387,6 +387,8 @@ MonoBehaviour:
   currentHealth: 0
   jotaroAnim: {fileID: 8889214174053078588}
   healthBar: {fileID: 0}
+  star: {fileID: 8889214173773478488}
+  moveScript: {fileID: 8889214175241118070}
 --- !u!114 &8889214175241118066
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -406,4 +408,4 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 1024
   attackDamage: 1
-  attackRate: 2
+  attackRate: 5
