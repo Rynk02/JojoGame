@@ -11,19 +11,19 @@ public class Dio : MonoBehaviour
     public Animator dioAnim;
     public GameObject knifePrefab;
     public Transform firePoint;
-
     Transform player;
+
     public Rigidbody2D rb;
     public float speed = 2.5f;
 
     public float attackRange = 1f;
     bool attack = false;
-    public Transform startPos;
     bool start = false;
     bool up = false;
-    public Transform upPos;
     bool move = false;
     bool down = false;
+    public Transform startPos;
+    public Transform upPos;
     public JotaroMovement moveScript;
     public JotaroHealth jotaro;
     // Start is called before the first frame update
@@ -37,52 +37,7 @@ public class Dio : MonoBehaviour
         FindObjectOfType<AudioManager>().Play("DioIntro");
         StartCoroutine("AutoAttack");
     }
-    void RoadRoller()
-    {
-        moveScript.jotaroAnim.SetBool("isRunning", false);
-        moveScript.enabled = false;
-        moveScript.rb.velocity = transform.right * 0;
-        FindObjectOfType<AudioManager>().Play("ZaWarudo");
-        FindObjectOfType<AudioManager>().Play("ZW");
-        dioAnim.SetTrigger("ZW");
-    }
-    void backToStart()
-    {
-        transform.Rotate(0f, 180f, 0f);
-        dioAnim.SetTrigger("isRunning");
-        start = true;
-    }
-    public void Attack()
-    {
-        dioAnim.SetTrigger("isRunning");
-        move = true;
-        attack = true;
-    }
-    public void Shoot()
-    {
-        Instantiate(knifePrefab, firePoint.position, firePoint.rotation);
-    }
-
-    public void TakeDamage(int damage)
-    {
-        dioAnim.SetTrigger("Hurt");
-        currentHealth -= damage;
-        if (currentHealth <= 0)
-        {
-            Die();
-        }
-    }
-
-    void Die()
-    {
-        dioAnim.SetBool("isDead", true);
-        Invoke("LoadNextScene", 4);
-    }
-
-    void LoadNextScene()
-    {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-    }
+    
     // Update is called once per frame
     void Update()
     {
@@ -108,9 +63,15 @@ public class Dio : MonoBehaviour
                 {
                     dioAnim.SetTrigger("Attack");
                     attack = false;
+                    GameObject go = GameObject.FindGameObjectWithTag("Player");
+                    JotaroCombat jotaroCombat = go.GetComponent<JotaroCombat>();
                     if (Input.GetKey(KeyCode.P) == false)
                     {
                         jotaro.TakeDamage(2);
+                    }
+                    else
+                    {
+                        jotaroCombat.Block();
                     }
                     attack = false;
                 }
@@ -140,9 +101,15 @@ public class Dio : MonoBehaviour
             {
                 dioAnim.SetTrigger("RR");
                 FindObjectOfType<AudioManager>().Play("FastMuda");
+                GameObject go = GameObject.FindGameObjectWithTag("Player");
+                JotaroCombat jotaroCombat = go.GetComponent<JotaroCombat>();
                 if (Input.GetKey(KeyCode.P) == false)
                 {
                     jotaro.TakeDamage(10);
+                }
+                else
+                {
+                    jotaroCombat.Block();
                 }
                 down = false;
             }
@@ -199,5 +166,51 @@ public class Dio : MonoBehaviour
                 }
             }
         }
+    }
+    void RoadRoller()
+    {
+        moveScript.jotaroAnim.SetBool("isRunning", false);
+        moveScript.enabled = false;
+        moveScript.rb.velocity = transform.right * 0;
+        FindObjectOfType<AudioManager>().Play("ZaWarudo");
+        FindObjectOfType<AudioManager>().Play("ZW");
+        dioAnim.SetTrigger("ZW");
+    }
+    void backToStart()
+    {
+        transform.Rotate(0f, 180f, 0f);
+        dioAnim.SetTrigger("isRunning");
+        start = true;
+    }
+    public void Attack()
+    {
+        dioAnim.SetTrigger("isRunning");
+        move = true;
+        attack = true;
+    }
+    public void Shoot()
+    {
+        Instantiate(knifePrefab, firePoint.position, firePoint.rotation);
+    }
+
+    public void TakeDamage(int damage)
+    {
+        dioAnim.SetTrigger("Hurt");
+        currentHealth -= damage;
+        if (currentHealth <= 0)
+        {
+            Die();
+        }
+    }
+
+    void Die()
+    {
+        dioAnim.SetBool("isDead", true);
+        Invoke("LoadNextScene", 4);
+    }
+
+    void LoadNextScene()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }

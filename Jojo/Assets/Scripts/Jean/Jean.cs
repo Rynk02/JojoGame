@@ -68,9 +68,14 @@ public class Jean : MonoBehaviour
     {
         GameObject go = GameObject.FindGameObjectWithTag("Player");
         JotaroHealth jotaro = go.GetComponent<JotaroHealth>();
+        JotaroCombat jotaroCombat = go.GetComponent<JotaroCombat>();
         if (Input.GetKey(KeyCode.P) == false)
         {
             jotaro.TakeDamage(1);
+        }
+        else
+        {
+            jotaroCombat.Block();
         }
         
     }
@@ -79,9 +84,14 @@ public class Jean : MonoBehaviour
     {
         GameObject go = GameObject.FindGameObjectWithTag("Player");
         JotaroHealth jotaro = go.GetComponent<JotaroHealth>();
+        JotaroCombat jotaroCombat = go.GetComponent<JotaroCombat>();
         if (Input.GetKey(KeyCode.P) == false)
         {
             jotaro.TakeDamage(2);
+        }
+        else
+        {
+            jotaroCombat.Block();
         }
     }
     public void TakeDamage(int damage)

@@ -16,11 +16,16 @@ public class Knife : MonoBehaviour
     void OnTriggerEnter2D(Collider2D hitInfo)
     {
         JotaroHealth jotaro = hitInfo.GetComponent<JotaroHealth>();
+        JotaroCombat jotaroCombat = hitInfo.GetComponent<JotaroCombat>();
         if (jotaro != null)
         {
             if (Input.GetKey(KeyCode.P) == false)
             {
                 jotaro.TakeDamage(damage);
+            }
+            else
+            {
+                jotaroCombat.Block();
             }
         }
         Destroy(gameObject);

@@ -17,12 +17,17 @@ public class Emerald : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D hitInfo)
     {
-        JotaroHealth jotaro = hitInfo.GetComponent<JotaroHealth>();
-        if (jotaro != null)
+        JotaroHealth jotaroHealth = hitInfo.GetComponent<JotaroHealth>();
+        JotaroCombat jotaroCombat = hitInfo.GetComponent<JotaroCombat>();
+        if (jotaroHealth != null)
         {
             if (Input.GetKey(KeyCode.P) == false)
             {
-                jotaro.TakeDamage(damage);
+                jotaroHealth.TakeDamage(damage);
+            }
+            else
+            {
+                jotaroCombat.Block();
             }
         }
 

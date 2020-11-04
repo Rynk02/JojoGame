@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class JotaroCombat : MonoBehaviour
 {
-    public static bool isBlocking = false;
     public Animator starAnim;
     public Transform attackPoint;
     public float attackRange = 0.5f;
@@ -15,24 +14,34 @@ public class JotaroCombat : MonoBehaviour
 
     public float attackRate = 2f;
     float nextAttackTime = 0f;
+
+    public float blockRate = 2f;
+    float nextBlockTime = 0f;
     void Update()
     {
-        if(Time.time >= nextAttackTime)
+        if (Time.time >= nextAttackTime)
         {
-            if (Input.GetKeyDown(KeyCode.O) && Input.GetKey(KeyCode.P) == false)
+            if (Input.GetKeyDown(KeyCode.O) && !Input.GetKey(KeyCode.P))
             {
                 FindObjectOfType<AudioManager>().Play("Ora");
                 Attack();
                 nextAttackTime = Time.time + 1f / attackRate;
             }
-            if (Input.GetKey(KeyCode.P) && Input.GetKeyDown(KeyCode.O) == false)
+
+        }
+        if (Time.time >= nextBlockTime)
+        {
+            if (Input.GetKey(KeyCode.P) && !Input.GetKeyDown(KeyCode.O))
             {
-                isBlocking = true;
                 starAnim.SetTrigger("Block");
             }
         }
     }
 
+    public void Block()
+    {
+        nextBlockTime = Time.time + 1f / blockRate;
+    }
     void Attack()
     {
         starAnim.SetTrigger("Attack");
@@ -40,17 +49,18 @@ public class JotaroCombat : MonoBehaviour
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, EnemyLayers);
         foreach (Collider2D enemy in hitEnemies)
         {
-            if (SceneManager.GetActiveScene().buildIndex == 1)
+            int buildIndex = SceneManager.GetActiveScene().buildIndex;
+            switch (buildIndex)
             {
-                enemy.GetComponent<KakScript>().TakeDamage(attackDamage);
-            }
-            else if (SceneManager.GetActiveScene().buildIndex == 2)
-            {
-                enemy.GetComponent<Jean>().TakeDamage(attackDamage);
-            }
-            else if (SceneManager.GetActiveScene().buildIndex == 3)
-            {
-                enemy.GetComponent<Dio>().TakeDamage(attackDamage);
+                case 1:
+                    enemy.GetComponent<KakScript>().TakeDamage(attackDamage);
+                    break;
+                case 2:
+                    enemy.GetComponent<Jean>().TakeDamage(attackDamage);
+                    break;
+                case 3:
+                    enemy.GetComponent<Dio>().TakeDamage(attackDamage);
+                    break;
             }
         }
     }
@@ -61,7 +71,7 @@ public class JotaroCombat : MonoBehaviour
         {
             return;
         }
-        Gizmos.DrawWireSphere(attackPoint.position, attackRange);    
+        Gizmos.DrawWireSphere(attackPoint.position, attackRange);
     }
 
 }

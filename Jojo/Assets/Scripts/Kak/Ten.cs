@@ -16,6 +16,7 @@ public class Ten : MonoBehaviour
     void OnTriggerEnter2D(Collider2D hitInfo)
     {
         JotaroHealth jotaro = hitInfo.GetComponent<JotaroHealth>();
+        JotaroCombat jotaroCombat = hitInfo.GetComponent<JotaroCombat>();
         if (jotaro != null)
         {
             if (Input.GetKey(KeyCode.P) == false)
@@ -28,6 +29,10 @@ public class Ten : MonoBehaviour
                 moveScript.rb.velocity = transform.right * 0;
                 rb.velocity = transform.right * 0;
                 Invoke("ResumeMovement", 1);
+            }
+            else
+            {
+                jotaroCombat.Block();
             }
         }
     }
