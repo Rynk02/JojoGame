@@ -19,13 +19,13 @@ public class Knife : MonoBehaviour
         JotaroCombat jotaroCombat = hitInfo.GetComponent<JotaroCombat>();
         if (jotaro != null)
         {
-            if (Input.GetKey(KeyCode.P) == false)
+            if (Input.GetKey(KeyCode.P) && Time.time >= jotaroCombat.nextBlockTime)
             {
-                jotaro.TakeDamage(damage);
+                jotaroCombat.Block();
             }
             else
             {
-                jotaroCombat.Block();
+                jotaro.TakeDamage(damage);
             }
         }
         Destroy(gameObject);

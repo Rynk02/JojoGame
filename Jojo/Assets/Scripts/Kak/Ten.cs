@@ -19,7 +19,11 @@ public class Ten : MonoBehaviour
         JotaroCombat jotaroCombat = hitInfo.GetComponent<JotaroCombat>();
         if (jotaro != null)
         {
-            if (Input.GetKey(KeyCode.P) == false)
+            if (Input.GetKey(KeyCode.P) && Time.time >= jotaroCombat.nextBlockTime)
+            {
+                jotaroCombat.Block();
+            }
+            else
             {
                 tenAnim.SetTrigger("Attack");
                 jotaro.TakeDamage(damage);
@@ -29,10 +33,6 @@ public class Ten : MonoBehaviour
                 moveScript.rb.velocity = transform.right * 0;
                 rb.velocity = transform.right * 0;
                 Invoke("ResumeMovement", 1);
-            }
-            else
-            {
-                jotaroCombat.Block();
             }
         }
     }

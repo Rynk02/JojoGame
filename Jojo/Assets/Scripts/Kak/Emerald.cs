@@ -21,13 +21,13 @@ public class Emerald : MonoBehaviour
         JotaroCombat jotaroCombat = hitInfo.GetComponent<JotaroCombat>();
         if (jotaroHealth != null)
         {
-            if (Input.GetKey(KeyCode.P) == false)
+            if (Input.GetKey(KeyCode.P) && Time.time >= jotaroCombat.nextBlockTime)
             {
-                jotaroHealth.TakeDamage(damage);
+                jotaroCombat.Block();
             }
             else
             {
-                jotaroCombat.Block();
+                jotaroHealth.TakeDamage(damage);
             }
         }
 

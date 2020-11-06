@@ -65,13 +65,13 @@ public class Dio : MonoBehaviour
                     attack = false;
                     GameObject go = GameObject.FindGameObjectWithTag("Player");
                     JotaroCombat jotaroCombat = go.GetComponent<JotaroCombat>();
-                    if (Input.GetKey(KeyCode.P) == false)
+                    if (Input.GetKey(KeyCode.P) && Time.time >= jotaroCombat.nextBlockTime)
                     {
-                        jotaro.TakeDamage(2);
+                        jotaroCombat.Block();
                     }
                     else
                     {
-                        jotaroCombat.Block();
+                        jotaro.TakeDamage(2);
                     }
                     attack = false;
                 }
@@ -103,13 +103,13 @@ public class Dio : MonoBehaviour
                 FindObjectOfType<AudioManager>().Play("FastMuda");
                 GameObject go = GameObject.FindGameObjectWithTag("Player");
                 JotaroCombat jotaroCombat = go.GetComponent<JotaroCombat>();
-                if (Input.GetKey(KeyCode.P) == false)
+                if (Input.GetKey(KeyCode.P) && Time.time >= jotaroCombat.nextBlockTime)
                 {
-                    jotaro.TakeDamage(10);
+                    jotaroCombat.Block();
                 }
                 else
                 {
-                    jotaroCombat.Block();
+                    jotaro.TakeDamage(10);
                 }
                 down = false;
             }

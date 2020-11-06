@@ -69,13 +69,13 @@ public class Jean : MonoBehaviour
         GameObject go = GameObject.FindGameObjectWithTag("Player");
         JotaroHealth jotaro = go.GetComponent<JotaroHealth>();
         JotaroCombat jotaroCombat = go.GetComponent<JotaroCombat>();
-        if (Input.GetKey(KeyCode.P) == false)
+        if (Input.GetKey(KeyCode.P)  && Time.time >= jotaroCombat.nextBlockTime)
         {
-            jotaro.TakeDamage(1);
+            jotaroCombat.Block();
         }
         else
         {
-            jotaroCombat.Block();
+            jotaro.TakeDamage(1);
         }
         
     }
@@ -85,13 +85,13 @@ public class Jean : MonoBehaviour
         GameObject go = GameObject.FindGameObjectWithTag("Player");
         JotaroHealth jotaro = go.GetComponent<JotaroHealth>();
         JotaroCombat jotaroCombat = go.GetComponent<JotaroCombat>();
-        if (Input.GetKey(KeyCode.P) == false)
+        if (Input.GetKey(KeyCode.P) && Time.time >= jotaroCombat.nextBlockTime)
         {
-            jotaro.TakeDamage(2);
+            jotaroCombat.Block();
         }
         else
         {
-            jotaroCombat.Block();
+            jotaro.TakeDamage(2);
         }
     }
     public void TakeDamage(int damage)

@@ -16,7 +16,7 @@ public class JotaroCombat : MonoBehaviour
     float nextAttackTime = 0f;
 
     public float blockRate = 2f;
-    float nextBlockTime = 0f;
+    public float nextBlockTime = 0f;
     void Update()
     {
         if (Time.time >= nextAttackTime)
